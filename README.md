@@ -1,4 +1,4 @@
-# Helmet-detection-and-number-plate-capturing
+# Helmet-detection-and-number-plate-Extraction
 Detecting whether the bike rider is wearing a helmet or not and capturing the number plate if the rider is not wearing a helmet.
 
 Python packages required-
